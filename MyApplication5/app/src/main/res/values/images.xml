@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="images">
+        <item>Красное уведомление</item>
+        <item>Небо</item>
+        <item>Время</item>
+        <item>Последняя дуэль</item>
+    </string-array>
+</resources>

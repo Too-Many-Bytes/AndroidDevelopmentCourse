@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApplication10</string>
+    <string name="ExitButton">Выход</string>
+    <string name="Program_info">О программме</string>
+</resources>

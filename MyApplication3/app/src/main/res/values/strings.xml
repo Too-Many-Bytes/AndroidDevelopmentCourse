@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application3</string>
+    <string name="name_of_creator">Федорович Игорь Сергеевич, гр. ББИ2007</string>
+    <string name="num_of_1st_activity">1st activity</string>
+    <string name="hintFirstActivity">enter something</string>
+    <string name="name_of_button">Next</string>
+    <string name="num_of_2nd_activity">2nd activity</string>
+    <string name="name_of_button_2nd">Back</string>
+    <string name="Note_on_2nd_activity">Вы ввели:</string>
+</resources>

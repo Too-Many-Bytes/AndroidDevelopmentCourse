@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application 2</string>
+    <string name="my_name">Федорович Игорь Сергеевич, гр. ББИ2007</string>
+    <string name="hint_for_editText">enter something here</string>
+</resources>

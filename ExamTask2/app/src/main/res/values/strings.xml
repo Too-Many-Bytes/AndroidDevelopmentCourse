@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExamTask2</string>
+    <string name="triangle">Треугольник</string>
+    <string name="square">Квадрат</string>
+    <string name="circle">Круг</string>
+    <string name="myName">Федорович Игорь Сергеевич, гр. ББИ2007</string>
+</resources>
